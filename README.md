@@ -42,6 +42,6 @@ How to Play
 
   Avoid colliding with the borders and the snake's own body(:
 
-#Intention
+## Intention
 
 The main intention behind developing this game was to improve my C++ programming skills, including practicing console manipulation and real-time input flow control. This project also allowed me to experiment with creating a simple game and better understand how interactions in the console work using the Windows API.
