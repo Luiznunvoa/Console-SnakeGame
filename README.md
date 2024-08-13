@@ -22,7 +22,7 @@ To compile the game, follow the instructions below:
 4. Run the compilation command:
    ```bash
    g++ -o SnakeGame main.cpp -lwinmm
-5. Run the generated executable:
+5. Run the generated executable(may be beter run from the file manager):
    ```bash
    SnakeGame.exe
 ## Gameplay
