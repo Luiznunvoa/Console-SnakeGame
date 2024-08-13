@@ -21,7 +21,7 @@ To compile the game, follow the instructions below:
 3. Navigate to the project directory.
 4. Run the compilation command:
    ```bash
-   g++ -o SnakeGame main.cpp -lwinmm# Console-SnakeGame
+   g++ -o SnakeGame main.cpp -lwinmm
 5. Run the generated executable:
    ```bash
    SnakeGame.exe
