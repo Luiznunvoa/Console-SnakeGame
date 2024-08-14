@@ -25,6 +25,9 @@ To compile the game, follow the instructions below:
 5. Run the generated executable(may be better to run from the file manager):
    ```bash
    SnakeGame.exe
+
+obs: It's possible to run just the EXE in the repository, but you may need the DLLs in the folder
+
 ## Gameplay
 How to Play
 
